@@ -1,0 +1,580 @@
+tldr_key,requirements,type
+academic-free-license-3.0-(afl),Commercial Use,can
+academic-free-license-3.0-(afl),Modify,can
+academic-free-license-3.0-(afl),Distribute,can
+academic-free-license-3.0-(afl),Sublicense,can
+academic-free-license-3.0-(afl),Use Trademark,cannot
+academic-free-license-3.0-(afl),Hold Liable,cannot
+academic-free-license-3.0-(afl),Include Original,must
+academic-free-license-3.0-(afl),Disclose Source,must
+academic-free-license-3.0-(afl),Include Copyright,must
+apache-license-2.0-(apache-2.0),Commercial Use,can
+apache-license-2.0-(apache-2.0),Modify,can
+apache-license-2.0-(apache-2.0),Distribute,can
+apache-license-2.0-(apache-2.0),Sublicense,can
+apache-license-2.0-(apache-2.0),Private Use,can
+apache-license-2.0-(apache-2.0),Use Patent Claims,can
+apache-license-2.0-(apache-2.0),Place Warranty,can
+apache-license-2.0-(apache-2.0),Hold Liable,cannot
+apache-license-2.0-(apache-2.0),Use Trademark,cannot
+apache-license-2.0-(apache-2.0),Include Copyright,must
+apache-license-2.0-(apache-2.0),Include License,must
+apache-license-2.0-(apache-2.0),State Changes,must
+apache-license-2.0-(apache-2.0),Include Notice,must
+apache-license-1.1,Distribute,can
+apache-license-1.1,Modify,can
+apache-license-1.1,Commercial Use,can
+apache-license-1.1,Sublicense,can
+apache-license-1.1,Hold Liable,cannot
+apache-license-1.1,Use Trademark,cannot
+apache-license-1.1,Include Copyright,must
+apache-license-1.1,Include License,must
+apache-license-1.1,Include Notice,must
+apple-public-source-license-2.0-(apsl),Commercial Use,can
+apple-public-source-license-2.0-(apsl),Modify,can
+apple-public-source-license-2.0-(apsl),Distribute,can
+apple-public-source-license-2.0-(apsl),Sublicense,can
+apple-public-source-license-2.0-(apsl),Place Warranty,can
+apple-public-source-license-2.0-(apsl),Hold Liable,cannot
+apple-public-source-license-2.0-(apsl),Use Trademark,cannot
+apple-public-source-license-2.0-(apsl),Include Copyright,must
+apple-public-source-license-2.0-(apsl),Include License,must
+apple-public-source-license-2.0-(apsl),State Changes,must
+apple-public-source-license-2.0-(apsl),Disclose Source,must
+artistic-license-2.0-(artistic),Commercial Use,can
+artistic-license-2.0-(artistic),Modify,can
+artistic-license-2.0-(artistic),Distribute,can
+artistic-license-2.0-(artistic),Sublicense,can
+artistic-license-2.0-(artistic),Private Use,can
+artistic-license-2.0-(artistic),Hold Liable,cannot
+artistic-license-2.0-(artistic),Use Trademark,cannot
+artistic-license-2.0-(artistic),Rename,must
+artistic-license-2.0-(artistic),State Changes,must
+artistic-license-2.0-(artistic),Include Original,must
+artistic-license-2.0-(artistic),Include Install Instructions,must
+beerware-license,Commercial Use,can
+beerware-license,Modify,can
+beerware-license,Distribute,can
+beerware-license,Sublicense,can
+beerware-license,Include License,can
+beerware-license,Rename,can
+beerware-license,Place Warranty,can
+beerware-license,Statically Link,can
+beerware-license,Include Copyright,must
+boost-software-license-1.0-explained,Commercial Use,can
+boost-software-license-1.0-explained,Modify,can
+boost-software-license-1.0-explained,Distribute,can
+boost-software-license-1.0-explained,Hold Liable,cannot
+boost-software-license-1.0-explained,Include Copyright,must
+boost-software-license-1.0-explained,Include License,must
+bsd-2-clause-license-(freebsd),Commercial Use,can
+bsd-2-clause-license-(freebsd),Modify,can
+bsd-2-clause-license-(freebsd),Distribute,can
+bsd-2-clause-license-(freebsd),Place Warranty,can
+bsd-2-clause-license-(freebsd),Hold Liable,cannot
+bsd-2-clause-license-(freebsd),Include Copyright,must
+bsd-2-clause-license-(freebsd),Include License,must
+bsd-3-clause-license-(revised),Commercial Use,can
+bsd-3-clause-license-(revised),Modify,can
+bsd-3-clause-license-(revised),Distribute,can
+bsd-3-clause-license-(revised),Place Warranty,can
+bsd-3-clause-license-(revised),Hold Liable,cannot
+bsd-3-clause-license-(revised),Use Trademark,cannot
+bsd-3-clause-license-(revised),Include Copyright,must
+bsd-3-clause-license-(revised),Include License,must
+common-development-and-distribution-license-(cddl-1.0)-explained,Commercial Use,can
+common-development-and-distribution-license-(cddl-1.0)-explained,Modify,can
+common-development-and-distribution-license-(cddl-1.0)-explained,Distribute,can
+common-development-and-distribution-license-(cddl-1.0)-explained,Sublicense,can
+common-development-and-distribution-license-(cddl-1.0)-explained,Place Warranty,can
+common-development-and-distribution-license-(cddl-1.0)-explained,Use Patent Claims,can
+common-development-and-distribution-license-(cddl-1.0)-explained,Hold Liable,cannot
+common-development-and-distribution-license-(cddl-1.0)-explained,Use Trademark,cannot
+common-development-and-distribution-license-(cddl-1.0)-explained,Include Copyright,must
+common-development-and-distribution-license-(cddl-1.0)-explained,Include License,must
+common-development-and-distribution-license-(cddl-1.0)-explained,Disclose Source,must
+common-public-attribution-license-version-1.0-(cpal-1.0),Distribute,can
+common-public-attribution-license-version-1.0-(cpal-1.0),Modify,can
+common-public-attribution-license-version-1.0-(cpal-1.0),Commercial Use,can
+common-public-attribution-license-version-1.0-(cpal-1.0),Sublicense,can
+common-public-attribution-license-version-1.0-(cpal-1.0),Place Warranty,can
+common-public-attribution-license-version-1.0-(cpal-1.0),Use Patent Claims,can
+common-public-attribution-license-version-1.0-(cpal-1.0),Hold Liable,cannot
+common-public-attribution-license-version-1.0-(cpal-1.0),Use Trademark,cannot
+common-public-attribution-license-version-1.0-(cpal-1.0),Include Copyright,must
+common-public-attribution-license-version-1.0-(cpal-1.0),Include License,must
+common-public-attribution-license-version-1.0-(cpal-1.0),Disclose Source,must
+common-public-attribution-license-version-1.0-(cpal-1.0),Include Notice,must
+common-public-attribution-license-version-1.0-(cpal-1.0),State Changes,must
+condor-public-license-v1.1-(condor-1.1),Distribute,can
+condor-public-license-v1.1-(condor-1.1),Modify,can
+condor-public-license-v1.1-(condor-1.1),Commercial Use,can
+condor-public-license-v1.1-(condor-1.1),Sublicense,can
+condor-public-license-v1.1-(condor-1.1),Hold Liable,cannot
+condor-public-license-v1.1-(condor-1.1),Use Trademark,cannot
+condor-public-license-v1.1-(condor-1.1),Include Copyright,must
+condor-public-license-v1.1-(condor-1.1),Include License,must
+creative-commons-attribution-(cc),Commercial Use,can
+creative-commons-attribution-(cc),Modify,can
+creative-commons-attribution-(cc),Distribute,can
+creative-commons-attribution-(cc),Sublicense,cannot
+creative-commons-attribution-(cc),Place Warranty,cannot
+creative-commons-attribution-(cc),Hold Liable,cannot
+creative-commons-attribution-(cc),Include Copyright,must
+creative-commons-attribution-noderivs-(cc-nd),Commercial Use,can
+creative-commons-attribution-noderivs-(cc-nd),Distribute,can
+creative-commons-attribution-noderivs-(cc-nd),Sublicense,cannot
+creative-commons-attribution-noderivs-(cc-nd),Place Warranty,cannot
+creative-commons-attribution-noderivs-(cc-nd),Hold Liable,cannot
+creative-commons-attribution-noderivs-(cc-nd),Modify,cannot
+creative-commons-attribution-noderivs-(cc-nd),Include Copyright,must
+creative-commons-attribution-noncommercial-(cc-nc),Modify,can
+creative-commons-attribution-noncommercial-(cc-nc),Distribute,can
+creative-commons-attribution-noncommercial-(cc-nc),Commercial Use,cannot
+creative-commons-attribution-noncommercial-(cc-nc),Sublicense,cannot
+creative-commons-attribution-noncommercial-(cc-nc),Place Warranty,cannot
+creative-commons-attribution-noncommercial-(cc-nc),Hold Liable,cannot
+creative-commons-attribution-noncommercial-(cc-nc),Include Copyright,must
+creative-commons-attribution-noncommercial-(cc-nc),State Changes,must
+creative-commons-attribution-noncommercial-(cc-nc),Give Credit,must
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Distribute,can
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Commercial Use,cannot
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Sublicense,cannot
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Place Warranty,cannot
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Hold Liable,cannot
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Modify,cannot
+creative-commons-attribution-noncommercial-noderivs-(cc-nc-nd),Include Copyright,must
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Modify,can
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Distribute,can
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Commercial Use,cannot
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Sublicense,cannot
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Place Warranty,cannot
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Hold Liable,cannot
+creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa),Include Copyright,must
+creative-commons-attribution-share-alike-(cc-sa),Commercial Use,can
+creative-commons-attribution-share-alike-(cc-sa),Modify,can
+creative-commons-attribution-share-alike-(cc-sa),Distribute,can
+creative-commons-attribution-share-alike-(cc-sa),Sublicense,cannot
+creative-commons-attribution-share-alike-(cc-sa),Place Warranty,cannot
+creative-commons-attribution-share-alike-(cc-sa),Hold Liable,cannot
+creative-commons-attribution-share-alike-(cc-sa),Include Copyright,must
+creative-commons-cc0-1.0-universal,Commercial Use,can
+creative-commons-cc0-1.0-universal,Private Use,can
+creative-commons-cc0-1.0-universal,Modify,can
+creative-commons-cc0-1.0-universal,Distribute,can
+creative-commons-cc0-1.0-universal,Use Trademark,cannot
+creative-commons-cc0-1.0-universal,Hold Liable,cannot
+creative-commons-cc0-1.0-universal,Use Patent Claims,cannot
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Commercial Use,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Modify,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Distribute,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Sublicense,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Include Copyright,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Include Original,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Include License,can
+do-wtf-you-want-to-public-license-v2-(wtfpl-2.0),Private Use,can
+eclipse-public-license-1.0-(epl-1.0),Commercial Use,can
+eclipse-public-license-1.0-(epl-1.0),Modify,can
+eclipse-public-license-1.0-(epl-1.0),Distribute,can
+eclipse-public-license-1.0-(epl-1.0),Sublicense,can
+eclipse-public-license-1.0-(epl-1.0),Use Patent Claims,can
+eclipse-public-license-1.0-(epl-1.0),Private Use,can
+eclipse-public-license-1.0-(epl-1.0),Use Trademark,cannot
+eclipse-public-license-1.0-(epl-1.0),Hold Liable,cannot
+eclipse-public-license-1.0-(epl-1.0),Include License,must
+eclipse-public-license-1.0-(epl-1.0),Disclose Source,must
+eclipse-public-license-1.0-(epl-1.0),Include Copyright,must
+eclipse-public-license-1.0-(epl-1.0),Compensate for Damages,must
+eclipse-public-license-1.0-(epl-1.0),Include Install Instructions,must
+eclipse-public-license-1.0-(epl-1.0),Include Original,must
+educational-community-license-version-2.0-(ecl-2.0),Commercial Use,can
+educational-community-license-version-2.0-(ecl-2.0),Modify,can
+educational-community-license-version-2.0-(ecl-2.0),Distribute,can
+educational-community-license-version-2.0-(ecl-2.0),Sublicense,can
+educational-community-license-version-2.0-(ecl-2.0),Place Warranty,can
+educational-community-license-version-2.0-(ecl-2.0),Private Use,can
+educational-community-license-version-2.0-(ecl-2.0),Use Trademark,cannot
+educational-community-license-version-2.0-(ecl-2.0),Hold Liable,cannot
+educational-community-license-version-2.0-(ecl-2.0),Include License,must
+educational-community-license-version-2.0-(ecl-2.0),Include Copyright,must
+educational-community-license-version-2.0-(ecl-2.0),State Changes,must
+educational-community-license-version-2.0-(ecl-2.0),Include Notice,must
+european-union-public-licence,Commercial Use,can
+european-union-public-licence,Private Use,can
+european-union-public-licence,Distribute,can
+european-union-public-licence,Hold Liable,cannot
+european-union-public-licence,Include License,must
+european-union-public-licence,Include Copyright,must
+european-union-public-licence,Disclose Source,must
+european-union-public-licence,State Changes,must
+fair-license,Commercial Use,can
+fair-license,Sublicense,can
+fair-license,Distribute,can
+fair-license,Modify,can
+fair-license,Rename,can
+fair-license,Place Warranty,cannot
+fair-license,Include License,must
+fair-source-license-0.9-(fair-source-0.9),Commercial Use,can
+fair-source-license-0.9-(fair-source-0.9),Modify,can
+fair-source-license-0.9-(fair-source-0.9),Distribute,can
+fair-source-license-0.9-(fair-source-0.9),Use Patent Claims,can
+fair-source-license-0.9-(fair-source-0.9),Private Use,can
+fair-source-license-0.9-(fair-source-0.9),Place Warranty,can
+fair-source-license-0.9-(fair-source-0.9),Hold Liable,cannot
+fair-source-license-0.9-(fair-source-0.9),Use Trademark,cannot
+fair-source-license-0.9-(fair-source-0.9),Sublicense,cannot
+fair-source-license-0.9-(fair-source-0.9),Include Copyright,must
+fair-source-license-0.9-(fair-source-0.9),Include License,must
+fair-source-license-0.9-(fair-source-0.9),Pay Above Use Threshold,must
+gnu-affero-general-public-license-v3-(agpl-3.0),Commercial Use,can
+gnu-affero-general-public-license-v3-(agpl-3.0),Modify,can
+gnu-affero-general-public-license-v3-(agpl-3.0),Distribute,can
+gnu-affero-general-public-license-v3-(agpl-3.0),Place Warranty,can
+gnu-affero-general-public-license-v3-(agpl-3.0),Sublicense,cannot
+gnu-affero-general-public-license-v3-(agpl-3.0),Hold Liable,cannot
+gnu-affero-general-public-license-v3-(agpl-3.0),Include Copyright,must
+gnu-affero-general-public-license-v3-(agpl-3.0),Include License,must
+gnu-affero-general-public-license-v3-(agpl-3.0),State Changes,must
+gnu-affero-general-public-license-v3-(agpl-3.0),Disclose Source,must
+gnu-affero-general-public-license-v3-(agpl-3.0),Include Install Instructions,must
+gnu-general-public-license-v2,Commercial Use,can
+gnu-general-public-license-v2,Modify,can
+gnu-general-public-license-v2,Distribute,can
+gnu-general-public-license-v2,Place Warranty,can
+gnu-general-public-license-v2,Sublicense,cannot
+gnu-general-public-license-v2,Hold Liable,cannot
+gnu-general-public-license-v2,Include Original,must
+gnu-general-public-license-v2,Disclose Source,must
+gnu-general-public-license-v2,Include Copyright,must
+gnu-general-public-license-v2,State Changes,must
+gnu-general-public-license-v2,Include License,must
+gnu-general-public-license-v3-(gpl-3),Commercial Use,can
+gnu-general-public-license-v3-(gpl-3),Modify,can
+gnu-general-public-license-v3-(gpl-3),Distribute,can
+gnu-general-public-license-v3-(gpl-3),Place Warranty,can
+gnu-general-public-license-v3-(gpl-3),Use Patent Claims,can
+gnu-general-public-license-v3-(gpl-3),Sublicense,cannot
+gnu-general-public-license-v3-(gpl-3),Hold Liable,cannot
+gnu-general-public-license-v3-(gpl-3),Include Original,must
+gnu-general-public-license-v3-(gpl-3),State Changes,must
+gnu-general-public-license-v3-(gpl-3),Disclose Source,must
+gnu-general-public-license-v3-(gpl-3),Include License,must
+gnu-general-public-license-v3-(gpl-3),Include Copyright,must
+gnu-general-public-license-v3-(gpl-3),Include Install Instructions,must
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Commercial Use,can
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Modify,can
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Distribute,can
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Sublicense,cannot
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Hold Liable,cannot
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Include Original,must
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Include Copyright,must
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Include License,must
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Disclose Source,must
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),State Changes,must
+gnu-lesser-general-public-license-v2.1-(lgpl-2.1),Include Notice,must
+gnu-lesser-general-public-license-v3-(lgpl-3),Commercial Use,can
+gnu-lesser-general-public-license-v3-(lgpl-3),Modify,can
+gnu-lesser-general-public-license-v3-(lgpl-3),Distribute,can
+gnu-lesser-general-public-license-v3-(lgpl-3),Place Warranty,can
+gnu-lesser-general-public-license-v3-(lgpl-3),Use Patent Claims,can
+gnu-lesser-general-public-license-v3-(lgpl-3),Sublicense,cannot
+gnu-lesser-general-public-license-v3-(lgpl-3),Hold Liable,cannot
+gnu-lesser-general-public-license-v3-(lgpl-3),Include Original,must
+gnu-lesser-general-public-license-v3-(lgpl-3),State Changes,must
+gnu-lesser-general-public-license-v3-(lgpl-3),Disclose Source,must
+gnu-lesser-general-public-license-v3-(lgpl-3),Include License,must
+gnu-lesser-general-public-license-v3-(lgpl-3),Include Copyright,must
+gnu-lesser-general-public-license-v3-(lgpl-3),Include Install Instructions,must
+ibm-public-license-1.0-(ipl),Commercial Use,can
+ibm-public-license-1.0-(ipl),Modify,can
+ibm-public-license-1.0-(ipl),Distribute,can
+ibm-public-license-1.0-(ipl),Sublicense,can
+ibm-public-license-1.0-(ipl),Use Trademark,cannot
+ibm-public-license-1.0-(ipl),Hold Liable,cannot
+ibm-public-license-1.0-(ipl),Include License,must
+ibm-public-license-1.0-(ipl),Disclose Source,must
+ipa-font-license-(ipa),Commercial Use,can
+ipa-font-license-(ipa),Modify,can
+ipa-font-license-(ipa),Distribute,can
+ipa-font-license-(ipa),Use Trademark,cannot
+ipa-font-license-(ipa),Hold Liable,cannot
+ipa-font-license-(ipa),Include Original,must
+ipa-font-license-(ipa),Include License,must
+isc-license,Commercial Use,can
+isc-license,Modify,can
+isc-license,Distribute,can
+isc-license,Hold Liable,cannot
+isc-license,Include Copyright,must
+isc-license,Include License,must
+microsoft-public-license-(ms-pl),Commercial Use,can
+microsoft-public-license-(ms-pl),Modify,can
+microsoft-public-license-(ms-pl),Distribute,can
+microsoft-public-license-(ms-pl),Sublicense,can
+microsoft-public-license-(ms-pl),Use Trademark,cannot
+microsoft-public-license-(ms-pl),Hold Liable,cannot
+microsoft-public-license-(ms-pl),Include Copyright,must
+microsoft-public-license-(ms-pl),Include License,must
+microsoft-reciprocal-license-(ms-rl),Commercial Use,can
+microsoft-reciprocal-license-(ms-rl),Modify,can
+microsoft-reciprocal-license-(ms-rl),Distribute,can
+microsoft-reciprocal-license-(ms-rl),Sublicense,can
+microsoft-reciprocal-license-(ms-rl),Use Trademark,cannot
+microsoft-reciprocal-license-(ms-rl),Hold Liable,cannot
+microsoft-reciprocal-license-(ms-rl),Include Copyright,must
+microsoft-reciprocal-license-(ms-rl),Include License,must
+microsoft-reciprocal-license-(ms-rl),Disclose Source,must
+mit-license,Commercial Use,can
+mit-license,Modify,can
+mit-license,Distribute,can
+mit-license,Sublicense,can
+mit-license,Private Use,can
+mit-license,Hold Liable,cannot
+mit-license,Include Copyright,must
+mit-license,Include License,must
+mitty,Modify,can
+mitty,Distribute,can
+mitty,Relicense,cannot
+mitty,Contact Author,must
+mozilla-public-license-2.0-(mpl-2),Commercial Use,can
+mozilla-public-license-2.0-(mpl-2),Modify,can
+mozilla-public-license-2.0-(mpl-2),Distribute,can
+mozilla-public-license-2.0-(mpl-2),Sublicense,can
+mozilla-public-license-2.0-(mpl-2),Place Warranty,can
+mozilla-public-license-2.0-(mpl-2),Use Patent Claims,can
+mozilla-public-license-2.0-(mpl-2),Use Trademark,cannot
+mozilla-public-license-2.0-(mpl-2),Hold Liable,cannot
+mozilla-public-license-2.0-(mpl-2),Include Copyright,must
+mozilla-public-license-2.0-(mpl-2),Include License,must
+mozilla-public-license-2.0-(mpl-2),Disclose Source,must
+mozilla-public-license-2.0-(mpl-2),Include Original,must
+odc-open-database-license-(odbl),Commercial Use,can
+odc-open-database-license-(odbl),Private Use,can
+odc-open-database-license-(odbl),Distribute,can
+odc-open-database-license-(odbl),Modify,can
+odc-open-database-license-(odbl),Sublicense,cannot
+odc-open-database-license-(odbl),Hold Liable,cannot
+odc-open-database-license-(odbl),Include License,must
+odc-open-database-license-(odbl),Include Original,must
+open-font-license-(ofl)-explained,Commercial Use,can
+open-font-license-(ofl)-explained,Modify,can
+open-font-license-(ofl)-explained,Distribute,can
+open-font-license-(ofl)-explained,Sublicense,cannot
+open-font-license-(ofl)-explained,Use Trademark,cannot
+open-font-license-(ofl)-explained,Include License,must
+open-font-license-(ofl)-explained,Rename,must
+open-software-licence-3.0,Sublicense,can
+open-software-licence-3.0,Modify,can
+open-software-licence-3.0,Distribute,can
+open-software-licence-3.0,Commercial Use,can
+open-software-licence-3.0,Use Trademark,cannot
+open-software-licence-3.0,Hold Liable,cannot
+open-software-licence-3.0,Disclose Source,must
+open-software-licence-3.0,Include Copyright,must
+open-software-licence-3.0,Include License,must
+php-license-3.0-(php),Commercial Use,can
+php-license-3.0-(php),Modify,can
+php-license-3.0-(php),Distribute,can
+php-license-3.0-(php),Sublicense,can
+php-license-3.0-(php),Use Trademark,cannot
+php-license-3.0-(php),Hold Liable,cannot
+php-license-3.0-(php),Include License,must
+php-license-3.0-(php),Include Copyright,must
+python-license-2.0,Commercial Use,can
+python-license-2.0,Modify,can
+python-license-2.0,Distribute,can
+python-license-2.0,Use Trademark,cannot
+python-license-2.0,Hold Liable,cannot
+python-license-2.0,Include Copyright,must
+python-license-2.0,Include License,must
+python-license-2.0,State Changes,must
+simple-non-code-license-(sncl),Distribute,can
+simple-non-code-license-(sncl),Modify,can
+simple-non-code-license-(sncl),Commercial Use,cannot
+simple-non-code-license-(sncl),Hold Liable,cannot
+simple-non-code-license-(sncl),Use Trademark,cannot
+simple-non-code-license-(sncl),Include Copyright,must
+simple-non-code-license-(sncl),Include Notice,must
+simple-non-code-license-(sncl),Include License,must
+simple-non-code-license-(sncl),Give Credit,must
+simple-public-license-2.0-(simpl),Commercial Use,can
+simple-public-license-2.0-(simpl),Modify,can
+simple-public-license-2.0-(simpl),Distribute,can
+simple-public-license-2.0-(simpl),Hold Liable,can
+simple-public-license-2.0-(simpl),Sublicense,cannot
+simple-public-license-2.0-(simpl),Include License,must
+simple-public-license-2.0-(simpl),State Changes,must
+simple-public-license-2.0-(simpl),Disclose Source,must
+the-don't-ask-me-about-it-license,Modify,can
+the-don't-ask-me-about-it-license,Distribute,can
+the-don't-ask-me-about-it-license,Commercial Use,can
+the-don't-ask-me-about-it-license,Private Use,can
+the-don't-ask-me-about-it-license,Contact Author,cannot
+tosg-2.00-(toca-operating-system-general-license),Commercial Use,can
+tosg-2.00-(toca-operating-system-general-license),Modify,can
+tosg-2.00-(toca-operating-system-general-license),Distribute,can
+tosg-2.00-(toca-operating-system-general-license),Sublicense,cannot
+tosg-2.00-(toca-operating-system-general-license),Place Warranty,cannot
+tosg-2.00-(toca-operating-system-general-license),Hold Liable,cannot
+tosg-2.00-(toca-operating-system-general-license),State Changes,must
+tosg-2.00-(toca-operating-system-general-license),Statically Link,must
+tosg-2.00-(toca-operating-system-general-license),Disclose Source,must
+universal-permissive-license-1.0-(upl-1.0),Commercial Use,can
+universal-permissive-license-1.0-(upl-1.0),Modify,can
+universal-permissive-license-1.0-(upl-1.0),Distribute,can
+universal-permissive-license-1.0-(upl-1.0),Sublicense,can
+universal-permissive-license-1.0-(upl-1.0),Private Use,can
+universal-permissive-license-1.0-(upl-1.0),Use Patent Claims,can
+universal-permissive-license-1.0-(upl-1.0),Hold Liable,cannot
+universal-permissive-license-1.0-(upl-1.0),Include Copyright,must
+universal-permissive-license-1.0-(upl-1.0),Include License,must
+university-of-illinois---ncsa-open-source-license-(ncsa),Commercial Use,can
+university-of-illinois---ncsa-open-source-license-(ncsa),Modify,can
+university-of-illinois---ncsa-open-source-license-(ncsa),Distribute,can
+university-of-illinois---ncsa-open-source-license-(ncsa),Use Trademark,cannot
+university-of-illinois---ncsa-open-source-license-(ncsa),Hold Liable,cannot
+university-of-illinois---ncsa-open-source-license-(ncsa),Include License,must
+unlicense,Commercial Use,can
+unlicense,Private Use,can
+unlicense,Modify,can
+unlicense,Include Copyright,cannot
+unlicense,Hold Liable,cannot
+x11-license,Commercial Use,can
+x11-license,Modify,can
+x11-license,Distribute,can
+x11-license,Sublicense,can
+x11-license,Private Use,can
+x11-license,Hold Liable,cannot
+x11-license,Use Trademark,cannot
+x11-license,Include Copyright,must
+x11-license,Include License,must
+zlib-libpng-license-(zlib),Commercial Use,can
+zlib-libpng-license-(zlib),Modify,can
+zlib-libpng-license-(zlib),Distribute,can
+zlib-libpng-license-(zlib),Hold Liable,cannot
+zlib-libpng-license-(zlib),Include Copyright,must
+zlib-libpng-license-(zlib),Rename,must
+sleepycat-license,Commercial Use,can
+sleepycat-license,Modify,can
+sleepycat-license,Distribute,can
+sleepycat-license,Use Trademark,cannot
+sleepycat-license,Hold Liable,cannot
+sleepycat-license,Include Original,must
+sleepycat-license,Include License,must
+adaptive-public-license-1.0-(apl-1.0),Distribute,can
+adaptive-public-license-1.0-(apl-1.0),Modify,can
+adaptive-public-license-1.0-(apl-1.0),Commercial Use,can
+adaptive-public-license-1.0-(apl-1.0),Private Use,can
+adaptive-public-license-1.0-(apl-1.0),Place Warranty,can
+adaptive-public-license-1.0-(apl-1.0),Hold Liable,cannot
+adaptive-public-license-1.0-(apl-1.0),Use Trademark,cannot
+adaptive-public-license-1.0-(apl-1.0),Include License,must
+adaptive-public-license-1.0-(apl-1.0),Include Notice,must
+adaptive-public-license-1.0-(apl-1.0),Disclose Source,must
+adaptive-public-license-1.0-(apl-1.0),State Changes,must
+adaptive-public-license-1.0-(apl-1.0),Give Credit,must
+open-software-license-1.1-(osl-1.1),Sublicense,can
+open-software-license-1.1-(osl-1.1),Distribute,can
+open-software-license-1.1-(osl-1.1),Modify,can
+open-software-license-1.1-(osl-1.1),Commercial Use,can
+open-software-license-1.1-(osl-1.1),Hold Liable,cannot
+open-software-license-1.1-(osl-1.1),Use Trademark,cannot
+open-software-license-1.1-(osl-1.1),Disclose Source,must
+open-software-license-1.1-(osl-1.1),Include Copyright,must
+open-software-license-1.1-(osl-1.1),Include License,must
+open-software-license-2.0-(osl-2.0),Sublicense,can
+open-software-license-2.0-(osl-2.0),Distribute,can
+open-software-license-2.0-(osl-2.0),Modify,can
+open-software-license-2.0-(osl-2.0),Commercial Use,can
+open-software-license-2.0-(osl-2.0),Hold Liable,cannot
+open-software-license-2.0-(osl-2.0),Use Trademark,cannot
+open-software-license-2.0-(osl-2.0),Disclose Source,must
+open-software-license-2.0-(osl-2.0),Include Copyright,must
+open-software-license-2.0-(osl-2.0),Include License,must
+open-software-license-2.1-(osl-2.1),Sublicense,can
+open-software-license-2.1-(osl-2.1),Distribute,can
+open-software-license-2.1-(osl-2.1),Modify,can
+open-software-license-2.1-(osl-2.1),Commercial Use,can
+open-software-license-2.1-(osl-2.1),Hold Liable,cannot
+open-software-license-2.1-(osl-2.1),Use Trademark,cannot
+open-software-license-2.1-(osl-2.1),Disclose Source,must
+open-software-license-2.1-(osl-2.1),Include Copyright,must
+open-software-license-2.1-(osl-2.1),Include License,must
+open-public-license-v1.0-(opl-1.0),Distribute,can
+open-public-license-v1.0-(opl-1.0),Modify,can
+open-public-license-v1.0-(opl-1.0),Commercial Use,can
+open-public-license-v1.0-(opl-1.0),Sublicense,can
+open-public-license-v1.0-(opl-1.0),Place Warranty,can
+open-public-license-v1.0-(opl-1.0),Private Use,can
+open-public-license-v1.0-(opl-1.0),Hold Liable,cannot
+open-public-license-v1.0-(opl-1.0),Use Trademark,cannot
+open-public-license-v1.0-(opl-1.0),Include License,must
+open-public-license-v1.0-(opl-1.0),Include Copyright,must
+open-public-license-v1.0-(opl-1.0),State Changes,must
+open-public-license-v1.0-(opl-1.0),Disclose Source,must
+open-public-license-v1.0-(opl-1.0),Include Notice,must
+open-public-license-v1.0-(opl-1.0),Give Credit,must
+postgresql-license-(postgresql),Distribute,can
+postgresql-license-(postgresql),Modify,can
+postgresql-license-(postgresql),Commercial Use,can
+postgresql-license-(postgresql),Hold Liable,cannot
+postgresql-license-(postgresql),Include Copyright,must
+postgresql-license-(postgresql),Include License,must
+ricoh-source-code-public-license-(rscpl),Distribute,can
+ricoh-source-code-public-license-(rscpl),Modify,can
+ricoh-source-code-public-license-(rscpl),Sublicense,can
+ricoh-source-code-public-license-(rscpl),Commercial Use,can
+ricoh-source-code-public-license-(rscpl),Use Trademark,cannot
+ricoh-source-code-public-license-(rscpl),Hold Liable,cannot
+ricoh-source-code-public-license-(rscpl),Disclose Source,must
+ricoh-source-code-public-license-(rscpl),Include License,must
+ricoh-source-code-public-license-(rscpl),State Changes,must
+antlr-software-rights-notice-(antlr-pd),Commercial Use,can
+antlr-software-rights-notice-(antlr-pd),Modify,can
+antlr-software-rights-notice-(antlr-pd),Distribute,can
+antlr-software-rights-notice-(antlr-pd),Place Warranty,can
+antlr-software-rights-notice-(antlr-pd),Give Credit,must
+gsoap-public-license-v1.3b-(gsoap-1.3b),Distribute,can
+gsoap-public-license-v1.3b-(gsoap-1.3b),Modify,can
+gsoap-public-license-v1.3b-(gsoap-1.3b),Commercial Use,can
+gsoap-public-license-v1.3b-(gsoap-1.3b),Sublicense,can
+gsoap-public-license-v1.3b-(gsoap-1.3b),Place Warranty,can
+gsoap-public-license-v1.3b-(gsoap-1.3b),Use Trademark,cannot
+gsoap-public-license-v1.3b-(gsoap-1.3b),Hold Liable,cannot
+gsoap-public-license-v1.3b-(gsoap-1.3b),Include License,must
+gsoap-public-license-v1.3b-(gsoap-1.3b),State Changes,must
+gsoap-public-license-v1.3b-(gsoap-1.3b),Include Notice,must
+gsoap-public-license-v1.3b-(gsoap-1.3b),Include Copyright,must
+gsoap-public-license-v1.3b-(gsoap-1.3b),Give Credit,must
+gsoap-public-license-v1.3b-(gsoap-1.3b),Disclose Source,must
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Distribute,can
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Modify,can
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Commercial Use,can
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Sublicense,can
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Use Trademark,cannot
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Hold Liable,cannot
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Include Copyright,must
+sgi-free-software-license-b-v2.0-(sgi-b-2.0),Include License,must
+yahoo!-public-license-v1.1-(ypl-1.1),Distribute,can
+yahoo!-public-license-v1.1-(ypl-1.1),Modify,can
+yahoo!-public-license-v1.1-(ypl-1.1),Commercial Use,can
+yahoo!-public-license-v1.1-(ypl-1.1),Sublicense,can
+yahoo!-public-license-v1.1-(ypl-1.1),Use Trademark,cannot
+yahoo!-public-license-v1.1-(ypl-1.1),Hold Liable,cannot
+yahoo!-public-license-v1.1-(ypl-1.1),Include License,must
+yahoo!-public-license-v1.1-(ypl-1.1),Include Copyright,must
+yahoo!-public-license-v1.1-(ypl-1.1),Disclose Source,must
+xerox-license-(xerox),Commercial Use,can
+xerox-license-(xerox),Modify,can
+xerox-license-(xerox),Distribute,can
+xerox-license-(xerox),Sublicense,can
+xerox-license-(xerox),Private Use,can
+xerox-license-(xerox),Hold Liable,cannot
+xerox-license-(xerox),Include Copyright,must
+xerox-license-(xerox),Include License,must
+ubuntu-font-license-1.0,Modify,can
+ubuntu-font-license-1.0,Distribute,can
+ubuntu-font-license-1.0,Use Trademark,cannot
+ubuntu-font-license-1.0,Rename,cannot
+ubuntu-font-license-1.0,Sublicense,cannot
+ubuntu-font-license-1.0,Include License,must
+ubuntu-font-license-1.0,Include Copyright,must

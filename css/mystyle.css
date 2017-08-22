@@ -1,0 +1,124 @@
+
+/* Style the list */
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {background-color: #ddd;}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {background-color: #ccc;}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+header {
+    text-align:center;
+    padding:10px;
+    background-color:#003366;
+    color:white;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+#compare {
+    width:30%;
+    float:left;
+    padding:10px;
+}
+footer {
+    background-color:#f2f2f2;
+    clear:both;
+    text-align:right;
+    padding:15px;
+}
+body{
+  padding:30px;
+  font-family: 'Helvetica Neue', Helvetica, Arial;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding:10px;
+}
+
+
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #003366;
+    color: white;
+    padding:10px;
+}
+td {
+    text-align: left;
+    padding:10px;
+}
+
+.green {
+    background-color: #4CAF50;
+    color: white;
+}
+.red {
+    background-color: #FF0000;
+    color: white;
+}
+.blue {
+    background-color: #003366;
+    color: white;
+}
+.italic {
+    font-style: italic;
+}
+a.whitelink{
+  color: white;
+}
+a.button:link, a.button:visited {
+    background-color: #468499;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.button:hover, a.button:active {
+    background-color: #003366;
+}

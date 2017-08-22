@@ -1,0 +1,101 @@
+olex_obligation_code,name,shortened
+I-8101,I-8101 Comments,I-8101 Comments
+I-8102,I-8102 Freeware License - not analyzed by OpenLogic,I-8102 Freeware License - not analyzed by OpenLogic
+I-8201,I-8201 Litigation requirements,I-8201 Litigation requirements
+I-8301,I-8301 Patent Grant Clause,I-8301 Patent Grant Clause
+O-1101,O-1101 Distribute copy of license,O-1101 Must Distribute copy of license
+O-1102,O-1102 Give notice of or fulfill other requirements related to modified files ,O-1102 Must Give notice of or fulfill other requirements related to modified files 
+O-1104,O-1104 Obligation to include notice text or files,O-1104 Must include notice text or files
+O-1106,O-1106 Obligation to include copyright or trademark notice,O-1106 Must include copyright or trademark notice
+O-1107,O-1107 Obligation to include disclaimer of warranties and/or liabilities,O-1107 Must include disclaimer of warranties and/or liabilities
+O-1109,O-1109 Obligation to display notices in an interface,O-1109 Must display notices in an interface
+O-1110,O-1110 Obligation to give notice of 3rd party license requirements,O-1110 Must give notice of 3rd party license requirements
+O-1111,O-1111 Advertising must include acknowledgement,O-1111 Advertising must include acknowledgement
+O-1114,O-1114 Obligation to give notice of differing license,O-1114 Must give notice of differing license
+O-1115,O-1115 Obligation to use a specific name or title,O-1115 Must use a specific name or title
+O-1116,O-1116 Obligation to give notice to author,O-1116 Must give notice to author
+O-1117,O-1117 Obligation to identify initial developer or contributor(s),O-1117 Must identify initial developer or contributor(s)
+O-1119,O-1119 Obligation to inform of sole responsibility for additional services or support options ,O-1119 Must inform of sole responsibility for additional services or support options 
+O-1121,O-1121 Obligation that additional services be provided under terms commensurate with fair market value and support the purpose of the license.,O-1121 Obligation that additional services be provided under terms commensurate with fair market value and support the purpose of the license.
+O-1122,O-1122 Obligation to notify Initial Developer of modifications,O-1122 Must notify Initial Developer of modifications
+O-1201,O-1201 Obligation to indemnify contributors,O-1201 Must indemnify contributors
+O-1202,O-1202 Obligation to indemnify initial developer or licensor(s),O-1202 Must indemnify initial developer or licensor(s)
+O-1301,"O-1301 Obligation to distribute, make available, or give notice of location of source code","O-1301 Must distribute, make available, or give notice of location of source code"
+O-1302,O-1302 Obligation to provide installation information (GPL v3),O-1302 Must provide installation information (GPL v3)
+O-1303,O-1303 Obligation to distribute uncombined library,O-1303 Must distribute uncombined library
+O-1305,O-1305 Obligation to include unmodified object code,O-1305 Must include unmodified object code
+O-1306,O-1306 Obligation to make available or give notice of location of original software,O-1306 Must make available or give notice of location of original software
+O-1308,O-1308 Obligation to provide a link or URL to the original document,O-1308 Must provide a link or URL to the original document
+O-1309,O-1309 Obligation to use most current version of work ,O-1309 Must use most current version of work 
+O-1310,O-1310 Obligation to publicly release modified work,O-1310 Must publicly release modified work
+O-1311,O-1311 Obligation for development team to own most recent edition of licensor?s book,O-1311 Must purchase licensor?s book for each developer
+O-1312,O-1312 Obligation to fully implement the work including all its required interfaces and functionality,O-1312 Must fully implement the work including all its required interfaces and functionality
+O-1400,O-1400 Obligation to apply particular terms of the license to distributed works,O-1400 Must apply particular terms of the license to distributed works
+O-1401,O-1401 Obligation to apply license to original or derivative works,O-1401 Must apply license to original or derivative works
+O-1402,O-1402 Obligation to maintain work as a whole under this license (strong copyleft),O-1402 Must maintain work as a whole under this license (strong copyleft)
+O-1403,O-1403 Obligation to require distributors and external end users to agree to terms that protect it at least as much as this agreement,O-1403 Must require distributors and external end users to agree to terms that protect it at least as much as this agreement
+O-1501,O-1501 Obligation to allow reverse engineering,O-1501 Must allow reverse engineering
+O-1502,O-1502 Obligation that programs using work add significant and primary functionality to the work,O-1502 Obligation that programs using work add significant and primary functionality to the work
+O-1601,O-1601 Obligation to provide representations and warranties regarding contributions (passive obligation),O-1601 Must provide representations and warranties regarding contributions (passive obligation)
+O-1701,O-1701 Obligation to fulfill license requirement by choosing one of the following (see license text),O-1701 Must fulfill license requirement by choosing one of the following (see license text)
+O-1801,O-1801 Obligation to release exclusively as a software library,O-1801 Must release exclusively as a software library
+O-1802,O-1802 Obligation hide public interface from end users during normal use of product,O-1802 Obligation hide public interface from end users during normal use of product
+O-1901,O-1901 Obligation to make good faith effort to ensure functionality in absence of external tables/functions.,O-1901 Must make good faith effort to ensure functionality in absence of external tables/functions.
+O-1902,O-1902 Obligation to provide adequate privacy notices and protection,O-1902 Must provide adequate privacy notices and protection
+O-1903,O-1903 Obligation to agree to terms of licensor's privacy policy,O-1903 Must agree to terms of licensor's privacy policy
+O-2001,O-2001 Obligation to allow changes for customers own use,O-2001 Must allow changes for customers own use
+O-2101,O-2101 Obligation to extend patent license to all recipients of covered work and works based on it,O-2101 Must extend patent license to all recipients of covered work and works based on it
+O-2103,O-2103 Obligation to make reasonable efforts to obtain assent to license.,O-2103 Must make reasonable efforts to obtain assent to license.
+O-2104,O-2104 Obligation for work to  pass a compatibility test,O-2104 Obligation for work to  pass a compatibility test
+O-2201,O-2201 Obligation to grant licensor rights as condition of license,O-2201 Must grant licensor rights as condition of license
+O-2202,O-2202 Obligation to grant licensor intellectual property rights for licensee?s submissions to licensor,O-2202 Must grant licensor intellectual property rights for licensee?s submissions to licensor
+R-4101,R-4101 Restrictions regarding use of trademark,R-4101 Restrictions regard use of trademark
+R-4102,R-4102 Prohibition against use of name for endorsement or promotion without permission,R-4102 Can't use of name for endorsement or promotion without permission
+R-4104,R-4104 Prohibition against using product name,R-4104 Can't use product name
+R-4105,R-4105 Prohibition against misrepresenting origin of work,R-4105 Can't misrepresent origin of work
+R-4106,"R-4106 Prohibition against distorting, mutilating, or taking other derogatory action related to work that would damage author's honor or reputation","R-4106 Can't distort, mutilate, or take other derogatory action related to work that would damage author's honor or reputation"
+R-4107,R-4107 Prohibition against removing or altering proprietary notices or legends,R-4107 Can't remove or alter proprietary notices or legends
+R-4201,R-4201 Prohibition of modification of license text,R-4201 Prohibition of modification of license text
+R-4202,R-4202 Prohibition against addition of restrictions altering rights of license,R-4202 Can't addition of restrictions altering rights of license
+R-4203,R-4203 Prohibition against using original license name,R-4203 Can't use original license name
+R-4204,R-4204 Prohibition against imposing further restrictions on recipient's exercise of granted rights under GPL v2,R-4204 Can't impose further restrictions on recipient's exercise of granted rights under GPL v2
+R-4205,R-4205 Prohibition against imposing further restrictions on recipients' exercise of granted rights under GPL v3,R-4205 Can't impose further restrictions on recipients' exercise of granted rights under GPL v3
+R-4206,R-4206 Prohibition against imposing further restrictions on recipients' exercise of granted rights under LGPL v2.1,R-4206 Can't impose further restrictions on recipients' exercise of granted rights under LGPL v2.1
+R-4207,R-4207 Prohibition against imposing further restrictions on recipients' exercise of granted rights under LGPL v3,R-4207 Can't impose further restrictions on recipients' exercise of granted rights under LGPL v3
+R-4208,R-4208 Prohibition against using this license if not a non-profit organization,R-4208 Can't use this license if not a non-profit organization
+R-4209,R-4209 Prohibition against using code with any license requiring distribution of source code or allowing end user modification,R-4209 Can't use code with any license require distribution of source code or allow end user modification
+R-4301,R-4301 Restriction on conveyance/distribution of work,R-4301 Restriction on conveyance/distribution of work
+R-4302,R-4302 Prohibition against sublicensing work,R-4302 Can't sublicense work
+R-4303,R-4303 Prohibition against assigning or transferring license,R-4303 Can't assign or transfer license
+R-4304,R-4304 Restriction on number of editions of work used/installed or number of end-users,R-4304 Restriction on number of editions of work used/installed or number of end-users
+R-4305,R-4305 Restriction on type of hardware work can be used on or with,R-4305 Restriction on type of hardware work can be used on or with
+R-4306,R-4306 Prohibition against conveying work to third-party software developers ,R-4306 Can't convey work to third-party software developers 
+R-4401,R-4401 Prohibition against exposing a direct interface to the work,R-4401 Can't expose a direct interface to the work
+R-4402,"R-4402 Prohibition against modifying, decompiling, or reverse engineering object or source code","R-4402 Can't modify, decompile, or reverse engineer object or source code"
+R-4403,R-4403 Prohibition against including or distributing additional software intended to replace or substitute the work,R-4403 Can't include or distribute additional software intended to replace or substitute the work
+R-4404,R-4404 Prohibition against releasing modification in any form other than a patch,R-4404 Can't release modification in any form other than a patch
+R-4405,R-4405 Prohibition against modifying or creating derivatives of the document,R-4405 Can't modify or create derivatives of the document
+R-4406,R-4406 Prohibition against using anti-circumvention technical measures (DRM),R-4406 Can't use anti-circumvention technical measures (DRM)
+R-4407,R-4407 Prohibition against providing test results run on the work to any third-party without prior written consent of initial developer,R-4407 Can't provide test results run on the work to any third-party without prior written consent of initial developer
+R-4408,R-4408 Prohibition against invoking software via interfaces not described in the documentation,R-4408 Can't invoke software via interfaces not described in the documentation
+R-4501,R-4501 Prohibition against charging a fee for work itself,R-4501 Can't charge a fee for work itself
+R-4502,R-4502 Prohibition against charging a fee,R-4502 Can't charge a fee
+R-4601,R-4601 Prohibition against using work for particular named purpose/use,R-4601 Can't use work for particular named purpose/use
+R-4602,R-4602 Limited license ? work may only be used for named purposes/uses,R-4602 Limited license ? work may only be used for named purposes/uses
+R-4604,R-4604 Prohibition against using data for unauthorized reasons,R-4604 Can't use data for unauthorized reasons
+R-4701,R-4701 Prohibition against enforcing patent right against successive licensees,R-4701 Can't enforce patent right against successive licensees
+X-6101,X-6101 Termination of license on violation,X-6101 Termination of license on violation
+X-6201,X-6201 Termination of license on filing of patent litigation,X-6201 Termination of license on filing of patent litigation
+X-6202,X-6202 Termination of license upon filing an intellectual property litigation infringement claim,X-6202 Termination of license upon filing an intellectual property litigation infringement claim
+X-6203,X-6203 Termination of patent license upon filing of patent litigation,X-6203 Termination of patent license upon filing of patent litigation
+O-0000,O-0000,O-0000
+O-1001,O-1001,O-1001
+O-1002,O-1002,O-1002
+O-1003,O-1003,O-1003
+O-1004,O-1004,O-1004
+O-1005,O-1005,O-1005
+O-1006,O-1006,O-1006
+O-1007,O-1007,O-1007
+O-1008,O-1008,O-1008
+O-1009,O-1009,O-1009
+O-2301,O-2301,O-2301
